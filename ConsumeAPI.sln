@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWAPITestDrive", "SwApiTestDrive\SWAPITestDrive.csproj", "{F343F579-DE61-42CF-A93B-95E390B9FF6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWAPITestDriveLibrary", "ApiConsumeLibrary\SWAPITestDriveLibrary.csproj", "{A71A9660-9159-4C42-BD56-F5B512FF4674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F343F579-DE61-42CF-A93B-95E390B9FF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F343F579-DE61-42CF-A93B-95E390B9FF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F343F579-DE61-42CF-A93B-95E390B9FF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F343F579-DE61-42CF-A93B-95E390B9FF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A71A9660-9159-4C42-BD56-F5B512FF4674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71A9660-9159-4C42-BD56-F5B512FF4674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71A9660-9159-4C42-BD56-F5B512FF4674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71A9660-9159-4C42-BD56-F5B512FF4674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4C9C6B2-40A0-46DC-9EE4-E17C4C88BF5C}
+	EndGlobalSection
+EndGlobal
